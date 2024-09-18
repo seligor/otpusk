@@ -1,6 +1,7 @@
 # otpusk
-![GitHub top language](https://img.shields.io/github/languages/top/seligor/otpusk)
 ![Static Badge](https://img.shields.io/badge/seligor-otpusk-otpusk)
+![GitHub top language](https://img.shields.io/github/languages/top/seligor/otpusk)
+
 
 ![image](https://github.com/user-attachments/assets/cb1e617a-7deb-48fc-8ca7-f070be742c0e)
 
