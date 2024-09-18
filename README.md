@@ -7,4 +7,7 @@ git clone https://github.com/seligor/otpusk.git
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+chmod 755 START.sh
+chmod 755 start.sh
 ```
