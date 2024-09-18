@@ -11,3 +11,8 @@ pip install -r requirements.txt
 chmod 755 START.sh
 chmod 755 start.sh
 ```
+Получение API ключей для работы бота
+
+Перейдите на сайт my.telegram.org и войдите в систему, используя свой номер телефона.
+Выберите "API development tools" и заполните форму для регистрации нового приложения.
+Запишите api_id и api_hash и phone_number в файле main.py
