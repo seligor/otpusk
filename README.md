@@ -4,7 +4,7 @@
 Для установки бота 
 ```
 git clone https://github.com/seligor/otpusk.git
-pyhton3 -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
